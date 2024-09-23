@@ -56,8 +56,8 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 
-[@yangkexin840](https://www.github.com/yangkexin840) : ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-[@eth3ri0n](https://www.github.com/eth3ri0n) : ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- [@yangkexin840](https://www.github.com/yangkexin840) : ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- [@eth3ri0n](https://www.github.com/eth3ri0n) : ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🔗 Links
 
