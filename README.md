@@ -67,7 +67,7 @@ We are university students in the field of Multimedia and the Internet in France
 
 | Contributors               | Links                                                            |
 | -------------------------- | ---------------------------------------------------------------- |
-| [@yangkexin840](https://www.github.com/yangkexin840) | [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instamgram.com/pk.yangkexin018) |
+| [@yangkexin840](https://www.github.com/yangkexin840) | [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pk.yangkexin018) |
 | [@eth3ri0n](https://www.github.com/eth3ri0n) | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/eth3ri0n) |
 
 ## License
