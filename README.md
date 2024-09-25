@@ -1,4 +1,4 @@
-![Logo](./img/logo.png)
+![Logo](./img/Logo/logo_dark.svg)
 
 # Image Gallery
 
