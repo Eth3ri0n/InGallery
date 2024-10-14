@@ -1,3 +1,14 @@
+:root {
+  /* Les couleurs principales */
+  --violet-color: #f188df;
+  --vert-color: #7aff95;
+  --rose-color: #fe81a9;
+  --orange-color: #ff8d4a;
+  --jaune-color: #ffcf53;
+  --bleu-color: #a6fff8;
+  --white-color: #ffffff;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -24,13 +35,17 @@ header {
   padding: 10px;
 }
 #logo {
-  width: 150px; 
+  width: 150px;
   height: auto;
-  margin-right: 10px; 
+  margin-right: 10px;
+}
+#icone {
+  width: 0px;
+  height: auto;
 }
 h1 {
   margin: 0;
-  /* font-size: ; */
+  font-size: 20px;
 }
 nav {
   margin-top: 10px;
