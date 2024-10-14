@@ -54,7 +54,10 @@ nav {
 nav a {
   color: #fff;
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0 30px;
+}
+nav a:active {
+  color: #ccc;
 }
 main {
   background-color: #fff;
