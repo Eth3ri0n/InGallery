@@ -16,15 +16,25 @@ body {
 header {
   background-color: #333;
   color: #fff;
+  height: 50px;
   text-align: center;
-  padding: 1rem;
   margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+#logo {
+  width: 150px; 
+  height: auto;
+  margin-right: 10px; 
 }
 h1 {
   margin: 0;
+  /* font-size: ; */
 }
 nav {
   margin-top: 10px;
+  margin-left: auto;
 }
 nav a {
   color: #fff;
