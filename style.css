@@ -21,6 +21,10 @@ a {
   color: var(--white-color);
 }
 
+li {
+  list-style: none;
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
