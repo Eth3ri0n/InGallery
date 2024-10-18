@@ -15,6 +15,12 @@
   box-sizing: border-box;
 }
 
+/* Global tags */
+a {
+  text-decoration: none;
+  color: var(--white-color);
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -24,42 +30,47 @@ body {
   padding: 20px;
   background-color: #f4f4f4;
 }
+
+/* Top Bar Header */
 header#top_bar {
   background-color: #333;
-  color: #fff;
-  height: 50px;
-  text-align: center;
-  margin-bottom: 20px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  /* color: #fff; */
+  /* text-align: center; */
+  /* margin-bottom: 20px; */
+  /* padding: 10px; */
+}
+
+/* Logo */
+div.logo__container {
+  width: 50%;
+  min-width: 50%;
+  height: auto;
+}
+#logo {
+  display: flex;
+  width: 50%;
+  min-width: 50%;
+  height: 126px;
+}
+
+/* Menu */
+nav.nav_menu > ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+nav.nav_menu > ul > li {
+  margin: 0 10px;
   padding: 10px;
 }
-div#logo__container {
-  width: 150px;
-  height: auto;
-  margin-right: 10px;
-}
-#icone {
-  width: 0px;
-  height: auto;
-}
-h1 {
-  margin: 0;
-  font-size: 20px;
-}
-nav {
-  margin-top: 10px;
-  margin-left: auto;
-}
-nav a {
-  color: #fff;
-  text-decoration: none;
-  margin: 0 30px;
-}
-nav a:active {
-  color: #ccc;
-}
+
+
 main {
+  margin-top: 20px;
   background-color: #fff;
   padding: 20px;
   border-radius: 5px;
@@ -114,6 +125,26 @@ button {
 button:hover {
   background-color: #555;
 }
+
+/* Links */
+#links li {
+  list-style: none;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  text-align: center;
+  color: #333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+#links li > a {
+  color: #333;
+  cursor: pointer;
+}
+
 footer {
   text-align: center;
   margin-top: 20px;
