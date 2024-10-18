@@ -24,7 +24,7 @@ body {
   padding: 20px;
   background-color: #f4f4f4;
 }
-header {
+header#top_bar {
   background-color: #333;
   color: #fff;
   height: 50px;
@@ -34,7 +34,7 @@ header {
   align-items: center;
   padding: 10px;
 }
-#logo {
+div#logo__container {
   width: 150px;
   height: auto;
   margin-right: 10px;
